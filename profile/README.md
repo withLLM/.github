@@ -34,12 +34,12 @@
     <td> <div align=center> <b>김다운</b> </div> </td>
   </tr>
   <tr>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/02c532ed-d69f-4b68-bf28-dca956cf5bbb" width="100" height="100"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/272794a7-f925-4fd4-93f4-89e9bfff2bbc" width="100" height="100"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/3a965aa0-9891-4d0e-a329-f7b16c06552d" width="100" height="100"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/d4c1d4b2-0690-4767-bb04-b1f4d17a7c5e" width="100" height="100"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/6fa6b647-c33d-4fae-a9fe-5f9e3e5d9cae" width="100" height="100"/> </td>
-    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/62d6c395-77ba-4e94-ae58-a50fab3cde0e" width="100" height="100"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/02c532ed-d69f-4b68-bf28-dca956cf5bbb" width="150" height="150"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/272794a7-f925-4fd4-93f4-89e9bfff2bbc" width="150" height="150"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/3a965aa0-9891-4d0e-a329-f7b16c06552d" width="150" height="150"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/d4c1d4b2-0690-4767-bb04-b1f4d17a7c5e" width="150" height="150"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/6fa6b647-c33d-4fae-a9fe-5f9e3e5d9cae" width="150" height="150"/> </td>
+    <td> <img alt="Github" src ="https://github.com/user-attachments/assets/62d6c395-77ba-4e94-ae58-a50fab3cde0e" width="150" height="150"/> </td>
   </tr>
   <tr>
     <td> <div align=center> <a href="https://github.com/nrgolden16"> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=plastic&logo=Github&logoColor=white"/> </div> </td>
